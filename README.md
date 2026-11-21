@@ -1,5 +1,7 @@
 # NOMAD
 
+> Superseded by [NOMAD](https://github.com/McGill-Aerial-Design/NOMAD). Kept for reference.
+
 **A reusable drone edge + ground-control framework.**
 
 NOMAD pairs a Python FastAPI service running on an onboard companion computer
